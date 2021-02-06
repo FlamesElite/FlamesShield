@@ -1,0 +1,10 @@
+D:\Coding\FlamesShield\FlamesShield\bin\Debug\FlamesShield.exe.config
+D:\Coding\FlamesShield\FlamesShield\bin\Debug\FlamesShield.exe
+D:\Coding\FlamesShield\FlamesShield\bin\Debug\FlamesShield.pdb
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.csprojAssemblyReference.cache
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.Form1.resources
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.Properties.Resources.resources
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.csproj.GenerateResource.cache
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.csproj.CoreCompileInputs.cache
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.exe
+D:\Coding\FlamesShield\FlamesShield\obj\Debug\FlamesShield.pdb
